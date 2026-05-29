@@ -22,8 +22,8 @@ from telethon.tl.types import InputReportReasonSpam, InputReportReasonViolence, 
 # ==================== CONFIGURATION ====================
 
 # Your Telegram API credentials (get from https://my.telegram.org/apps)
-API_ID = 5241835301          # Replace with your API ID
-API_HASH = 'your_api_hash_here'  # Replace with your API Hash
+API_ID = 30569808          # Replace with your API ID
+API_HASH = '2a066c1ae7475bd7f7f6102de87014be'  # Replace with your API Hash
 
 # Target account to report
 TARGET_USERNAME = '@scammer_username'  # Replace with scammer's username
