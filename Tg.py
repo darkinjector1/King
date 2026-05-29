@@ -22,7 +22,7 @@ from telethon.tl.types import InputReportReasonSpam, InputReportReasonViolence, 
 # ==================== CONFIGURATION ====================
 
 # Your Telegram API credentials (get from https://my.telegram.org/apps)
-API_ID = 1234567          # Replace with your API ID
+API_ID = 5241835301          # Replace with your API ID
 API_HASH = 'your_api_hash_here'  # Replace with your API Hash
 
 # Target account to report
