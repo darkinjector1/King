@@ -26,7 +26,7 @@ API_ID = 30569808          # Replace with your API ID
 API_HASH = '2a066c1ae7475bd7f7f6102de87014be'  # Replace with your API Hash
 
 # Target account to report
-TARGET_USERNAME = '@scammer_username'  # Replace with scammer's username
+TARGET_USERNAME = '@Vut1000x'  # Replace with scammer's username
 # OR use phone number (international format)
 TARGET_PHONE = ''  # e.g., '+15551234567'
 
